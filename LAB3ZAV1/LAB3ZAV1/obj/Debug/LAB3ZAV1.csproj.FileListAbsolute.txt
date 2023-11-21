@@ -1,0 +1,7 @@
+C:\Users\GAIFo\source\repos\LAB3ZAV1\LAB3ZAV1\obj\Debug\LAB3ZAV1.csproj.AssemblyReference.cache
+C:\Users\GAIFo\source\repos\LAB3ZAV1\LAB3ZAV1\obj\Debug\LAB3ZAV1.csproj.CoreCompileInputs.cache
+C:\Users\GAIFo\source\repos\LAB3ZAV1\LAB3ZAV1\bin\Debug\LAB3ZAV1.exe.config
+C:\Users\GAIFo\source\repos\LAB3ZAV1\LAB3ZAV1\bin\Debug\LAB3ZAV1.exe
+C:\Users\GAIFo\source\repos\LAB3ZAV1\LAB3ZAV1\bin\Debug\LAB3ZAV1.pdb
+C:\Users\GAIFo\source\repos\LAB3ZAV1\LAB3ZAV1\obj\Debug\LAB3ZAV1.exe
+C:\Users\GAIFo\source\repos\LAB3ZAV1\LAB3ZAV1\obj\Debug\LAB3ZAV1.pdb
